@@ -1,0 +1,15 @@
+# ignora a pasta de dependências
+node_modules/
+
+# ignora os arquivos compilados para JS 
+dist/
+
+# ignora arquivos temporários do VS Code
+.vscode/
+
+# ignora arquivos de execução temporária
+*.log
+*.tmp
+
+# ignora arquivos de testes automáticos temporários
+coverage/
