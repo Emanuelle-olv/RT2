@@ -53,23 +53,24 @@ digite os números e a operação: 5 2 somar
 
 ## 📁 Project Structure
 
-```
+```bash
 RT4/
 ├── node_modules/
 ├── src/
 │   ├── index.ts
 │   ├── mensagens.ts
 │   └── operacoes/
+│       ├── Bhaskara.ts
 │       ├── Calculo.ts
-│       ├── Soma.ts
-│       ├── Subtracao.ts
-│       ├── Multiplicacao.ts
 │       ├── Divisao.ts
+│       ├── Multiplicacao.ts
 │       ├── Potencia.ts
-│       └── Bhaskara.ts
+│       ├── Soma.ts
+│       └── Subtracao.ts
+├── .gitignore
 ├── package.json
-├── tsconfig.json
-└── .gitignore
+├── package-lock.json
+└── tsconfig.json
 ```
 
 ---
