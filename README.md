@@ -1,7 +1,7 @@
-# TypeScript CLI Calculator (RT4)
+# TypeScript CLI Calculator (RT2)
 
 This repository contains an object-oriented calculator built using **TypeScript**, designed to run in the command line (CLI).  
-The project was developed as part of the **RT4 activity** in the **Multiplatform Software Development (DSM)** course at **FATEC São José dos Campos**.
+The project was developed as part of the **RT2 activity** in the **Multiplatform Software Development (DSM)** course at **FATEC São José dos Campos**.
 
 ---
 
@@ -54,7 +54,7 @@ digite os números e a operação: 5 2 somar
 ## 📁 Project Structure
 
 ```bash
-RT4/
+RT2/
 ├── node_modules/
 ├── src/
 │   ├── index.ts
